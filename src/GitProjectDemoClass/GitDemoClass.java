@@ -9,6 +9,7 @@ public class GitDemoClass {
 		System.out.println("Git Demo demonstration");
 		System.out.println("Naja");
 		System.out.println("3Naja");
+		System.out.println("4Naja");
 	
 	}
 
